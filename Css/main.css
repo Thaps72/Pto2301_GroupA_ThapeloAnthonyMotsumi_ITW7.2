@@ -266,3 +266,8 @@ animation: html 3s;
 }
 
 /*-adding-background-image-styles*/
+.picture{
+    background-image: url("Images/003_medium.jpg");
+    background-position: center;
+    background-size: cover;
+}
